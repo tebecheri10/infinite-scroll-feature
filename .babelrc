@@ -1,0 +1,10 @@
+{
+    "presets": [
+        [
+            "@babel/presets-env",
+            {
+                "modules":false
+            }
+        ]
+    ]
+}
